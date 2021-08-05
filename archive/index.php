@@ -333,7 +333,7 @@ if (!isset($_SESSION['loggedin'])) {
     ?>
   </div>
   <div class="footer">
-    <p>Copyright &copy; 2021 Screen Network S.A.</p>
+    <p>Copyright &copy; 2021 ***</p>
     <p>Made by <a href="http://exiges.pl">Exiges</a></p>
   </div>
 </body>
