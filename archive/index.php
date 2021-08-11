@@ -223,11 +223,9 @@ if (!isset($_SESSION['loggedin'])) {
       }
 
       #sn_logo {
-        top: 1rem;
-        height: 70px;
-        max-height: 70px;
-        width: auto;
-        right: calc((100% - 409px) / 2);
+        top: 1.2rem;
+	      width: 14rem;
+	      right: calc((100% - 14rem) / 2);
       }
     }
   </style>
