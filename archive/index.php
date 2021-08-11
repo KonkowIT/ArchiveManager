@@ -21,7 +21,7 @@ if (!isset($_SESSION['loggedin'])) {
     body {
       color: #333;
       font: 14px Sans-Serif;
-      padding: 4rem 50px 50px 50px;
+      padding: 5.25rem 50px 50px 50px;
       background: #eee;
       display: grid;
     }
