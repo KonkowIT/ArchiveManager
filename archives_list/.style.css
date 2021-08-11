@@ -25,7 +25,7 @@ nav {
 	position: fixed; 
 	top: 0;
 	background: #212121;
-	height: 3.53rem;
+	height: 4.5rem;
 	width: 100%;
 	margin: 0 50px 0 -50px;
 	overflow: auto;
@@ -37,7 +37,7 @@ nav {
 nav div {
 	white-space: nowrap;
 	display: inline-flex;
-	margin: 0 20px;
+	margin: 0 1rem;
 	align-items: center;
 	color: white;
 }
@@ -64,12 +64,11 @@ nav div svg {
 }
 
 #sn_logo {
-	height: auto; 
-	width: auto; 
-	box-shadow: none; 
-	max-height: 40px;
+	height: auto;
+	width: 10rem;
+	box-shadow: none;
 	position: fixed;
-	right: calc((100% - 234px) / 2);
+	right: calc((100% - 10rem) / 2);
 	top: 8px;
 }
 
