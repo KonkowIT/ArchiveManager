@@ -176,7 +176,7 @@ if (!isset($_SESSION['loggedin'])) {
 
     @media (orientation: portrait) {
       body {
-        padding-top: 7.5rem;
+        padding-top: 8.5rem;
       }
 
       p {
