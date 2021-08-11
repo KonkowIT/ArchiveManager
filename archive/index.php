@@ -51,7 +51,7 @@ if (!isset($_SESSION['loggedin'])) {
       background: #212121;
       margin: auto;
       width: 100%;
-      height: 3.53rem;
+      height: 4.5rem;
       margin: 0 50px 0 -50px;
       overflow: auto;
       display: inline-flex;
@@ -62,7 +62,7 @@ if (!isset($_SESSION['loggedin'])) {
     nav div {
       white-space: nowrap;
       display: inline-flex;
-      margin: 0 20px;
+      margin: 0 1rem;
       align-items: center;
       color: white;
     }
@@ -102,12 +102,11 @@ if (!isset($_SESSION['loggedin'])) {
 
     #sn_logo {
       height: auto;
-      width: auto;
-      box-shadow: none;
-      max-height: 40px;
-      position: fixed;
-      right: calc((100% - 234px) / 2);
-      top: 8px;
+	    width: 10rem;
+	    box-shadow: none;
+	    position: fixed;
+	    right: calc((100% - 10rem) / 2);
+	    top: 8px;
     }
 
     .image-gallery {
@@ -333,7 +332,7 @@ if (!isset($_SESSION['loggedin'])) {
     ?>
   </div>
   <div class="footer">
-    <p>Copyright &copy; 2021 ***</p>
+    <p>Copyright &copy; 2021 Screen Network S.A.</p>
     <p>Made by <a href="http://exiges.pl">Exiges</a></p>
   </div>
 </body>
